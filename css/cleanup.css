@@ -19,4 +19,4 @@
   display: none;
 }
 
-#wall .parent:nth
+#wall .parent:nth-child(3)
