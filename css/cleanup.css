@@ -19,5 +19,5 @@
   display: none;
 }
 
-#wall .parent
+#wall .parent>div+div>div
 }
