@@ -19,4 +19,6 @@
   display: none;
 }
 
-#wall .parent:nth-child(3)
+#wall .parent:nth-child(3) #tag-6 {
+  display: none;
+}
