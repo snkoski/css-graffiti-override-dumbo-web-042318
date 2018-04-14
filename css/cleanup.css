@@ -7,6 +7,6 @@
   display: none;
 }
 
-div#wall #tag-2+#tag-3.wicked {
+#wall #tag-2+#tag-3.wicked {
   display: none;
 }
