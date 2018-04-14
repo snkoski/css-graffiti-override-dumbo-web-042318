@@ -19,6 +19,6 @@
   display: none;
 }
 
-#wall div.parent div:nth-of-type(2)>div #tag-6 {
+#wall div.parent div:nth-of-type(2)>#tag-6 {
   display: none;
 }
